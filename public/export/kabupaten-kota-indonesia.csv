@@ -1,0 +1,521 @@
+no,kabupaten/kota,ibu kota,bupati/wali kota,luas wilayah (km2),jumlah penduduk (2022),kecamatan,kelurahan/desa
+1,Kabupaten Aceh Barat,Meulaboh,Mahdi Efendi (Pj.),"2.782,87",198.858,12,322
+2,Kabupaten Aceh Barat Daya,Blangpidie,Darmansah (Pj.),"1.882,28",153.515,9,152
+3,Kabupaten Aceh Besar,Kota Jantho,Muhammad Iswanto (Pj.),"2.891,48",422.241,23,604
+4,Kabupaten Aceh Jaya,Calang,A. Murtala (Pj.),"3.872,35",96.049,9,172
+5,Kabupaten Aceh Selatan,Tapak Tuan,Cut Syazalisma (Pj.),"4.175,38",234.169,18,260
+6,Kabupaten Aceh Singkil,Singkil,Azmi (Pj.),"1.852,82",129.674,11,116
+7,Kabupaten Aceh Tamiang,Karang Baru,Asra (Pj.),"2.187,66",301.800,12,216
+8,Kabupaten Aceh Tengah,Takengon,Teuku Mirzuan (Pj.),"4.468,42",219.744,14,295
+9,Kabupaten Aceh Tenggara,Kutacane,Syakir (Pj.),"4.179,12",227.921,16,385
+10,Kabupaten Aceh Timur,Idi Rayeuk,Mahyuddin (Pj.),"6.040,6",434.929,24,513
+11,Kabupaten Aceh Utara,Lhoksukon,Mahyuzar Reuby (Pj.),"2.705,26",609.705,27,852
+12,Kabupaten Bener Meriah,Simpang Tiga Redelong,Haili Yoga (Pj.),"1.907,40",168.469,10,232
+13,Kabupaten Bireuen,Bireuen,Aulia Sofyan (Pj.),"1.796,99",445.503,17,609
+14,Kabupaten Gayo Lues,Blang Kejeren,Syaridin Porang (Pj.),"5.541,29",101.955,11,136
+15,Kabupaten Nagan Raya,Suka Makmue,Fitriany Farhas (Pj.),"3.524,16",172.827,10,222
+16,Kabupaten Pidie,Sigli,Wahyudi Adisiswanto (Pj.),"3.177,49",436.796,23,730
+17,Kabupaten Pidie Jaya,Meureudu,Said Mulyadi (Plt.),"939,00",160.272,8,222
+18,Kabupaten Simeulue,Sinabang,Ahmadlyah (Pj.),"1.821,75",94.560,10,138
+19,Kota Banda Aceh,-,Amiruddin (Pj.),"56,77",254.024,9,90
+20,Kota Langsa,-,Syaridin (Pj.),"224,24",186.075,5,66
+21,Kota Lhokseumawe,-,A. Hanan (Pj.),"132,97",191.688,4,68
+22,Kota Sabang,-,Reza Fahlevi (Pj.),"122,06",42.867,3,18
+23,Kota Subulussalam,-,Affan Alfian Bintang,"1.183,60",96.296,5,82
+24,Kabupaten Asahan,Kisaran,Surya,"3.737,83",791.174,25,27/177
+25,Kabupaten Batu Bara,Limapuluh,Nizhamul (Pj.),"888,14",443.816,12,10/141
+26,Kabupaten Dairi,Sidikalang,Eddy Keleng Ate Berutu,"2.083,60",319.583,15,8/161
+27,Kabupaten Deli Serdang,Lubuk Pakam,Ali Yusuf Siregar,"2.581,23",1.991.108,22,14/380
+28,Kabupaten Humbang Hasundutan,Dolok Sanggul,Dosmar Banjarnahor,"2.351,51",204.377,10,1/153
+29,Kabupaten Karo,Kabanjahe,Cory Sriwaty Sebayang,"2.206,88",410.465,17,10/259
+30,Kabupaten Labuhanbatu,Rantau Prapat,Erik Adtrada Ritonga,"2.772,38",505.875,9,23/75
+31,Kabupaten Labuhanbatu Selatan,Kota Pinang,Edimin,"3.079,61",325.451,5,2/52
+32,Kabupaten Labuhanbatu Utara,Aek Kanopan,Hendri Yanto Sitorus,"3.686,01",396.555,8,8/82
+33,Kabupaten Langkat,Stabat,Faisal Hasrimy (Pj.),"6.140,04",1.084.108,23,37/240
+34,Kabupaten Mandailing Natal,Panyabungan,Jafar Sukhairi Nasution,"6.547,26",491.005,23,27/377
+35,Kabupaten Nias,Gido,Ya'atulo Gulö,"902,40",145.644,10,-/170
+36,Kabupaten Nias Barat,Lahomi,Khenoki Waruwu,"464,22",96.938,8,-/105
+37,Kabupaten Nias Selatan,Teluk Dalam,Hilarius Duha,"2.531,70",367.970,35,2/459
+38,Kabupaten Nias Utara,Lotu,Amizaro Waruwu,"1.238,06",152.378,11,1/112
+39,Kabupaten Padang Lawas,Sibuhuan,Edy Junaidi (Pj.),"3.914,41",264.041,12,1/303
+40,Kabupaten Padang Lawas Utara,Gunung Tua,Patuan Rahmat Syukur Parlaungan Hasibuan (Pj.),"3.945,56",270.595,9,2/386
+41,Kabupaten Pakpak Bharat,Salak,Franc Bernhard Tumanggor,"1.365,61",55.550,8,-/52
+42,Kabupaten Samosir,Pangururan,Vandiko Gultom,"1.850,04",142.318,9,6/128
+43,Kabupaten Serdang Bedagai,Sei Rampah,Darma Wijaya,"1.949,18",669.746,17,6/237
+44,Kabupaten Simalungun,Raya,Radiapoh Hasiholan Sinaga,"4.601,48",1.039.056,32,27/386
+45,Kabupaten Tapanuli Selatan,Sipirok,Dolly Putra Parlindungan Pasaribu,"4.201,04",315.713,14,37/211
+46,Kabupaten Tapanuli Tengah,Pandan,Sugeng Riyanta (Pj.),"2.307,68",366.361,20,56/159
+47,Kabupaten Tapanuli Utara,Tarutung,Nikson Nababan,"3.895,60",321.514,15,11/241
+48,Kabupaten Toba,Balige,Poltak Sitorus,"2.291,62",213.924,16,13/231
+49,Kota Binjai,-,Amir Hamzah,"93,77",300.499,5,37/-
+50,Kota Gunungsitoli,-,Sowa'a Laoli,"208,68",137.249,6,3/98
+51,Kota Medan,-,Bobby Nasution,"279,29",2.527.050,21,151/-
+52,Kota Padangsidimpuan,-,Letnan Dalimunthe (Pj.),"159,30",228.744,6,37/42
+53,Kota Pematangsiantar,-,Susanti Dewayani,"75,92",274.278,8,53/-
+54,Kota Sibolga,-,Jamaluddin Pohan,"11,47",95.527,4,17/-
+55,Kota Tanjungbalai,-,Waris Thalib,"60,07",179.589,6,31/-
+56,Kota Tebing Tinggi,-,Syarmadani (Pj.),"39,17",177.029,5,35/-
+57,Kabupaten Agam,Lubuk Basung,Andri Warman,"2.226,27",525.136,16,92/-/-
+58,Kabupaten Dharmasraya,Pulau Punjung,Sutan Riska Tuanku Kerajaan,"2.920,93",228.801,11,52/-/-
+59,Kabupaten Kepulauan Mentawai,Tua Pejat,Fernando Jongguran Simanjuntak (Pj.),"5.983,22",91.694,10,-/-/43
+60,Kabupaten Lima Puluh Kota,Sarilamak,Safaruddin Datuak Bandaro Rajo,"3.273,41",389.837,13,79/-/-
+61,Kabupaten Padang Pariaman,Parit Malintang,Suhatri Bur,"1.342,27",441.688,17,103/-/-
+62,Kabupaten Pasaman,Lubuk Sikaping,Sabar AS (Plt.),"3.902,44",302.271,12,62/-/-
+63,Kabupaten Pasaman Barat,Simpang Ampek,Hamsuardi,"3.852,99",437.512,11,90/-/-
+64,Kabupaten Pesisir Selatan,Painan,Rusma Yul Anwar,"6.045,65",516.600,15,182/-/-
+65,Kabupaten Sijunjung,Muaro Sijunjung,Benny Dwifa Yuswir,"3.150,58",240.469,8,62/-/-
+66,Kabupaten Solok,Arosuka,Epyardi Asda,"3.590,40",397.276,14,74/-/-
+67,Kabupaten Solok Selatan,Padang Aro,Khairunas,"3.282,14",182.181,7,39/-/-
+68,Kabupaten Tanah Datar,Batusangkar,Eka Putra,"1.377,19",375.327,14,75/-/-
+69,Kota Bukittinggi,-,Erman Safar,"24,17",131.817,3,-/24/-
+70,Kota Padang,-,Hendri Septa,"694,38",919.660,11,-/104/-
+71,Kota Padang Panjang,-,Sonny Budaya Putra (Pj.),"23,56",60.449,2,-/16/-
+72,Kota Pariaman,-,Roberia (Pj.),"64,77",96.733,4,-/16/55
+73,Kota Payakumbuh,-,Jasman Rizal (Pj.),"74,55",141.813,5,-/47/-
+74,Kota Sawahlunto,-,Zefnihan (Pj.),"231,95",67.344,4,-/10/27
+75,Kota Solok,-,Zul Elfian,"58,72",77.535,2,-/13/-
+76,Kabupaten Bengkalis,Bengkalis,Kasmarni,"8.616,36",634.553,11,19/136
+77,Kabupaten Indragiri Hilir,Tembilahan,Herman (Pj.),"13.521,26",676.983,20,39/197
+78,Kabupaten Indragiri Hulu,Rengat,Rezita Meylani Yopi,"7.871,85",455.669,14,16/178
+79,Kabupaten Kampar,Bangkinang,Hambali (Pj.),"10.352,80",832.975,21,8/242
+80,Kabupaten Kepulauan Meranti,Selatpanjang,Asmar (Plt.),"3.623,56",210.843,9,5/96
+81,Kabupaten Kuantan Singingi,Koto Taluk,Suhardiman Amby,"5.457,86",341.708,15,11/218
+82,Kabupaten Pelalawan,Pangkalan Kerinci,Zukri,"13.262,11",402.303,12,14/104
+83,Kabupaten Rokan Hilir,Bagansiapiapi,Afrizal Sintong,"9.068,46",649.692,15,25/159
+84,Kabupaten Rokan Hulu,Pasir Pengaraian,Sukiman,"7.658,15",561.313,16,6/139
+85,Kabupaten Siak,Siak,Alfedri,"7.805,54",463.660,14,9/122
+86,Kota Dumai,-,Paisal,"2.059,61",331.445,7,36/-
+87,Kota Pekanbaru,-,Muflihun (Pj.),"638,33",1.085.246,15,83/-
+88,Kabupaten Batanghari,Muara Bulian,Muhammad Fadhil Arief,"5.387,52",307.390,8,14/110
+89,Kabupaten Bungo,Muara Bungo,Mashuri,"4.760,83",361.819,17,12/141
+90,Kabupaten Kerinci,Siulak,Asraf (Pj.),"3.445,20",257.781,16,2/285
+91,Kabupaten Merangin,Bangko,Mukti (Pj.),"7.540,12",373.472,24,10/205
+92,Kabupaten Muaro Jambi,Sengeti,Bachyuni Deliansyah (Pj.),"5.225,80",422.051,11,5/150
+93,Kabupaten Sarolangun,Sarolangun,Bachril Bakri (Pj.),"5.935,89",290.491,10,9/149
+94,Kabupaten Tanjung Jabung Barat,Kuala Tungkal,Anwar Sadat,"5.546,06",324.160,13,20/114
+95,Kabupaten Tanjung Jabung Timur,Muara Sabak,Romi Hariyanto,"4.546,62",233.102,11,20/73
+96,Kabupaten Tebo,Muara Tebo,Aspan (Pj.),"6.103,74",350.234,12,5/107
+97,Kota Jambi,-,Sri Purwaningsih (Pj.),"169,89",622.014,11,62/-
+98,Kota Sungai Penuh,-,Ahmadi Zubir,"364,92",100.249,8,4/65
+99,Kabupaten Banyuasin,Pangkalan Balai,Hani Syopiar Rustam (Pj.),"12.262,76",850.022,21,16/288
+100,Kabupaten Empat Lawang,Tebing Tinggi,Pauzan Khoiri Denin (Pj.),"2.234,10",336.694,10,9/147
+101,Kabupaten Lahat,Lahat,Muhammad Farid (Pj.),"4.333,06",441.961,24,18/360
+102,Kabupaten Muara Enim,Muara Enim,Ahmad Rizali (Pj.),"6.763,91",640.224,22,10/245
+103,Kabupaten Musi Banyuasin,Sekayu,Sandi Fahlepi (Pj.),"14.550,79",707.290,14,13/227
+104,Kabupaten Musi Rawas,Muara Beliti,Ratna Machmud,"6.122,59",421.511,14,13/186
+105,Kabupaten Musi Rawas Utara,Rupit,Devi Suhartoni,"5.937,80",199.668,7,7/82
+106,Kabupaten Ogan Ilir,Indralaya,Panca Wijaya Akbar,"2.302,86",439.469,16,14/227
+107,Kabupaten Ogan Komering Ilir,Kayu Agung,Asmar Wijaya (Pj.),"17.071,33",779.893,18,13/314
+108,Kabupaten Ogan Komering Ulu,Baturaja,Teddy Meilwansyah (Pj.),"3.774,50",383.608,13,14/143
+109,Kabupaten Ogan Komering Ulu Selatan,Muaradua,Popo Ali Martopo,"4.369,25",421.004,19,7/252
+110,Kabupaten Ogan Komering Ulu Timur,Martapura,Lanosin Hamzah,"3.412,72",684.560,20,7/305
+111,Kabupaten Penukal Abab Lematang Ilir,Talang Ubi,Heri Amalindo,"1.842,56",209.771,5,6/65
+112,Kota Lubuk Linggau,-,Trisko Defriyansa (Pj.),"367,73",241.894,8,72/-
+113,Kota Pagaralam,-,Lusapta Yudha Kurnia (Pj.),"625,91",150.881,5,35/-
+114,Kota Palembang,-,Ratu Dewa (Pj.),"352,51",1.772.492,18,107/-
+115,Kota Prabumulih,-,Elman (Pj.),"447,31",208.971,6,25/12
+116,Kabupaten Bengkulu Selatan,Kota Manna,Gusnan Mulyadi,"1.219,22",170.931,11,16/142
+117,Kabupaten Bengkulu Tengah,Karang Tinggi,Heriyandi Roni (Pj.),"1.132,38",119.599,10,1/142
+118,Kabupaten Bengkulu Utara,Kota Arga Makmur,Mian,"4.481,99",296.130,19,5/215
+119,Kabupaten Kaur,Kaur Selatan,Gusril Fauzi,"2.608,56",131.867,15,3/192
+120,Kabupaten Kepahiang,Kepahiang,Hidayatullah Sjahid,"738,97",153.232,8,12/105
+121,Kabupaten Lebong,Tubei,Kopli Ansori,"1.666,62",110.233,13,11/93
+122,Kabupaten Mukomuko,Kota Mukomuko,Sapuan,"4.138,68",193.154,15,3/148
+123,Kabupaten Rejang Lebong,Curup,Syamsul Effendi,"1.559,42",282.349,15,34/122
+124,Kabupaten Seluma,Pasar Tais,Erwin Octavian,"2.432,16",214.089,14,20/182
+125,Kota Bengkulu,-,Arif Gunadi (Pj.),"150,35",375.526,9,67/-
+126,Kabupaten Lampung Barat,Liwa,Nukman (Pj.),"2.107,99",307.818,15,5/131
+127,Kabupaten Lampung Selatan,Kalianda,Nanang Ermanto,"2.227,38",1.073.867,17,4/256
+128,Kabupaten Lampung Tengah,Gunung Sugih,Musa Ahmad,"4.559,57",1.367.335,28,10/301
+129,Kabupaten Lampung Timur,Sukadana,M. Dawam Rahardjo,"3.860,92",1.103.348,24,-/264
+130,Kabupaten Lampung Utara,Kotabumi,Budi Utomo,"2.669,30",652.623,23,15/232
+131,Kabupaten Mesuji,Wiralaga Mulya,Sulpakar (Pj.),"2.200,41",232.140,7,-/105
+132,Kabupaten Pesawaran,Gedong Tataan,Dendi Ramadhona,"1.288,08",478.558,11,-/144
+133,Kabupaten Pesisir Barat,Krui,Agus Istiqlal,"2.939,60",167.339,11,2/116
+134,Kabupaten Pringsewu,Pringsewu,Marindo Kurniawan (Pj.),"617,19",423.837,9,5/126
+135,Kabupaten Tanggamus,Kota Agung,Mulyadi Irsan (Pj.),"2.947,59",618.155,20,3/299
+136,Kabupaten Tulang Bawang,Menggala,Qodratul Ikhwan (Pj.),"3.116,06",429.130,15,4/147
+137,Kabupaten Tulang Bawang Barat,Panaragan Jaya,M. Firsada (Pj.),"1.257,09",300.328,9,3/93
+138,Kabupaten Way Kanan,Blambangan Umpu,Raden Adipati Surya,"3.522,11",481.104,14,6/221
+139,Kota Bandar Lampung,-,Eva Dwiana,"183,75",1.092.506,20,126/-
+140,Kota Metro,-,Wahdi,"73,21",173.478,5,22/-
+141,Kabupaten Bangka,Sungai Liat,M. Haris AR (Pj.),"3.016,85",324.232,8,19/62
+142,Kabupaten Bangka Barat,Muntok,Sukirman,"2.851,41",206.937,6,6/60
+143,Kabupaten Bangka Selatan,Toboali,Riza Herdavid,"3.598,24",201.948,8,3/50
+144,Kabupaten Bangka Tengah,Koba,Algafry Rahman,"2.259,98",200.110,6,7/56
+145,Kabupaten Belitung,Tanjung Pandan,Sahani Saleh,"2.270,71",183.353,5,7/42
+146,Kabupaten Belitung Timur,Manggar,Burhanudin,"2.588,40",127.899,7,-/39
+147,Kota Pangkalpinang,-,Maulan Aklil,"104,54",227.948,7,42/-
+148,Kabupaten Bintan,Bandar Seri Bentan,Roby Kurniawan,"1.317,15",169.447,10,15/36
+149,Kabupaten Karimun,Tanjung Balai Karimun,Aunur Rafiq,"930,45",262.075,14,29/42
+150,Kabupaten Kepulauan Anambas,Tarempa,Abdul Haris,"627,03",48.084,9,2/52
+151,Kabupaten Lingga,Daik,M. Nizar,"2.210,82",102.150,13,9/75
+152,Kabupaten Natuna,Ranai,Wan Siswandi,"1.999,16",82.824,17,7/70
+153,Kota Batam,-,Muhammad Rudi,"1.034,73",1.207.082,12,64/-
+154,Kota Tanjungpinang,-,Hasan (Pj.),"150,37",229.553,4,18/-
+155,Kabupaten Administrasi Kepulauan Seribu,Pulau Pramuka,Junaedi,"10,18",27.749,2,6
+156,Kota Administrasi Jakarta Barat,Kembangan,Uus Kuswanto,"124,44",2.434.511,8,56
+157,Kota Administrasi Jakarta Pusat,Menteng,Dhany Sukma,"52,38",1.056.896,8,44
+158,Kota Administrasi Jakarta Selatan,Kebayoran Baru,Munjirin,"154,32",2.226.812,10,65
+159,Kota Administrasi Jakarta Timur,Cakung,Muhammad Anwar,"182,70",3.037.139,10,65
+160,Kota Administrasi Jakarta Utara,Koja,Ali Maulana Hakim,"139,99",1.778.981,6,31
+161,Kabupaten Bandung,Soreang,Dadang Supriatna,"1.767,96",3.749.172,31,10/270
+162,Kabupaten Bandung Barat,Ngamprah,Arsan Latif (Pj.),"1.305,77",1.847.096,16,-/165
+163,Kabupaten Bekasi,Cikarang Pusat,Dani Ramdan (Pj.),"1.224,88",3.197.006,23,8/179
+164,Kabupaten Bogor,Cibinong,Asmawa Tosepu (Pj.),"2.710,62",5.558.885,40,19/416
+165,Kabupaten Ciamis,Ciamis,Herdiat Sunarya,"1.414,71",1.281.201,27,7/258
+166,Kabupaten Cianjur,Cianjur,Herman Suherman,"3.840,16",2.535.002,32,6/354
+167,Kabupaten Cirebon,Sumber,Imron Rosyadi,"984,52",2.437.899,40,12/412
+168,Kabupaten Garut,Tarogong Kidul,Barnas Adjidin (Pj.),"3.074,07",2.753.949,42,21/421
+169,Kabupaten Indramayu,Indramayu,Nina Agustina,"2.040,11",1.933.948,31,8/309
+170,Kabupaten Karawang,Karawang Barat,Aep Syaepuloh,"1.652,20",2.539.381,30,12/297
+171,Kabupaten Kuningan,Kuningan,Raden Iip Hidajat (Pj.),"1.110,56",1.231.772,32,15/361
+172,Kabupaten Majalengka,Majalengka,Dedi Supandi (Pj.),"1.204,24",1.354.803,26,13/330
+173,Kabupaten Pangandaran,Parigi,Jeje Wiradinata,"1.010,00",442.205,10,-/93
+174,Kabupaten Purwakarta,Purwakarta,Benny Irwan (Pj.),"825,74",1.036.768,17,9/183
+175,Kabupaten Subang,Subang,Imran (Pj.),"1.893,95",1.636.233,30,8/245
+176,Kabupaten Sukabumi,Palabuhanratu,Marwan Hamami,"4.145,70",2.790.320,47,5/381
+177,Kabupaten Sumedang,Sumedang Utara,Herman Suryatman (Pj.),"1.518,33",1.205.685,26,7/270
+178,Kabupaten Tasikmalaya,Singaparna,Ade Sugianto,"2.551,19",1.958.221,39,-/351
+179,Kota Bandung,-,Bambang Tirtoyuliono (Pj.),"167,67",2.569.107,30,151/-
+180,Kota Banjar,-,Ida Wahida Hidayati (Pj.),"113,49",208.309,4,9/16
+181,Kota Bekasi,-,Raden Gani Muhamad (Pj.),"206,61",2.513.669,12,56/-
+182,Kota Bogor,-,Hery Antasari (Pj.),"118,50",1.127.408,6,68/-
+183,Kota Cimahi,-,Dicky Saromi (Pj.),"39,27",575.519,3,15/-
+184,Kota Cirebon,-,Agus Mulyadi (Pj.),"37,36",352.347,5,22/-
+185,Kota Depok,-,Mohammad Idris,"200,29",1.941.360,11,63/-
+186,Kota Sukabumi,-,Kusmana Hartadji (Pj.),"48,25",364.912,7,33/-
+187,Kota Tasikmalaya,-,Cheka Virgowansyah (Pj.),"171,61",757.815,10,69/-
+188,Kabupaten Banjarnegara,Banjarnegara,Tri Harso Widirahmanto (Pj.),"1.023,73",1.017.767,20,12/266
+189,Kabupaten Banyumas,Purwokerto,Hanung Cahyo Saputro (Pj.),"1.335,30",1.776.918,27,30/301
+190,Kabupaten Batang,Batang,Lani Dewi Rejeki (Pj.),"788,65",801.718,15,9/239
+191,Kabupaten Blora,Blora,Arief Rohman,"1.955,82",888.224,16,24/271
+192,Kabupaten Boyolali,Boyolali,Said Hidayat,"1.008,45",1.062.713,22,6/261
+193,Kabupaten Brebes,Brebes,Iwanuddin Iskandar (Pj.),"1.902,37",1.978.759,17,5/292
+194,Kabupaten Cilacap,Cilacap,Awaluddin Muuri (Pj.),"2.124,47",1.944.857,24,15/269
+195,Kabupaten Demak,Demak,Eisti'anah,"900,12",1.203.956,14,6/243
+196,Kabupaten Grobogan,Purwodadi,Sri Sumarni,"2.013,86",1.453.526,19,7/273
+197,Kabupaten Jepara,Jepara,Edy Supriyanta (Pj.),"1.059,25",1.184.947,16,11/184
+198,Kabupaten Karanganyar,Karanganyar,Timotius Suryadi (Pj.),"775,44",931.693,17,15/162
+199,Kabupaten Kebumen,Kebumen,Arif Sugiyanto,"1.211,74",1.350.438,26,11/449
+200,Kabupaten Kendal,Kendal,Dico Ganinduto,"1.118,13",1.018.505,20,20/266
+201,Kabupaten Klaten,Klaten,Sri Mulyani,"658,22",1.260.506,26,10/391
+202,Kabupaten Kudus,Kudus,Muhammad Hasan Chabibie (Pj.),"425,15",849.184,9,9/123
+203,Kabupaten Magelang,Mungkid,Sepyo Achanto (Pj.),"1.102,93",1.299.859,21,5/367
+204,Kabupaten Pati,Pati,Henggar Budi Anggoro (Pj.),"1.489,19",1.324.188,21,5/401
+205,Kabupaten Pekalongan,Kajen,Fadia Arafiq,"837,00",968.821,19,13/272
+206,Kabupaten Pemalang,Pemalang,Mansur Hidayat,"1.118,03",1.471.489,14,12/212
+207,Kabupaten Purbalingga,Purbalingga,Dyah Hayuning Pratiwi,"677,55",998.561,18,15/224
+208,Kabupaten Purworejo,Purworejo,Yuli Hastuti,"1.091,49",769.880,16,25/469
+209,Kabupaten Rembang,Rembang,Abdul Hafidz,"887,13",645.333,14,7/287
+210,Kabupaten Semarang,Ungaran,Ngesti Nugraha,"950,21",1.053.094,19,27/208
+211,Kabupaten Sragen,Sragen,Kusdinar Untung Yuni Sukowati,"941,54",976.951,20,12/196
+212,Kabupaten Sukoharjo,Sukoharjo,Etik Suryani,"489,12",907.587,12,17/150
+213,Kabupaten Tegal,Slawi,Agustyarsyah (Pj.),"876,10",1.596.996,18,6/281
+214,Kabupaten Temanggung,Temanggung,Hary Agung Prabowo (Pj.),"837,71",790.174,20,23/266
+215,Kabupaten Wonogiri,Wonogiri,Joko Sutopo,"1.793,67",1.043.177,25,43/251
+216,Kabupaten Wonosobo,Wonosobo,Afif Nurhidayat,"981,41",879.124,15,29/236
+217,Kota Magelang,-,Muhammad Nur Aziz,"16,06",121.526,3,17/-
+218,Kota Pekalongan,-,Achmad Afzan Arslan Djunaid,"45,25",307.150,4,27/-
+219,Kota Salatiga,-,Yasip Khasani (Pj.),"57,36",192.322,4,23/-
+220,Kota Semarang,-,Hevearita Gunaryanti Rahayu,"373,78",1.653.524,16,177/-
+221,Kota Surakarta,-,Gibran Rakabuming Raka,"46,01",522.364,5,51/-
+222,Kota Tegal,-,Dadang Somantri (Pj.),"39,68",273.825,4,27/-
+223,Kabupaten Bantul,Bantul,Abdul Halim Muslih,"506,86",985.770,17,-/75
+224,Kabupaten Gunungkidul,Wonosari,Sunaryanta,"1.485,36",747.161,18,-/144
+225,Kabupaten Kulon Progo,Wates,Ni Made Dwipanti Indrayanti (Pj.),"586,27",436.935,12,1/87
+226,Kabupaten Sleman,Sleman,Kustini Sri Purnomo,"574,82",1.125.804,17,-/86
+227,Kota Yogyakarta,-,Singgih Raharjo (Pj.),"32,50",373.589,14,45/-
+228,Kabupaten Bangkalan,Bangkalan,Arif Mulya Adi (Pj.),"1.001,44",1.060.377,18,8/273
+229,Kabupaten Banyuwangi,Banyuwangi,Ipuk Fiestiandani,"3.593,06",1.708.114,25,28/189
+230,Kabupaten Blitar,Kanigoro,Rini Syarifah,"1.336,48",1.223.745,22,28/220
+231,Kabupaten Bojonegoro,Bojonegoro,Adriyanto (Pj.),"2.198,79",1.301.635,28,11/419
+232,Kabupaten Bondowoso,Bondowoso,Bambang Soekwanto (Pj.),"1.525,97",776.151,23,10/209
+233,Kabupaten Gresik,Gresik,Fandi Akhmad Yani,"1.191,25",1.311.215,18,26/330
+234,Kabupaten Jember,Jember,Hendy Siswanto,"3.092,34",2.536.729,31,22/226
+235,Kabupaten Jombang,Jombang,Sugiat (Pj.),"1.115,09",1.318.062,21,4/302
+236,Kabupaten Kediri,Pamenang,Hanindhito Himawan Pramana,"1.386,05",1.635.924,26,1/343
+237,Kabupaten Lamongan,Lamongan,Yuhronur Efendi,"1.782,05",1.344.165,27,12/462
+238,Kabupaten Lumajang,Lumajang,Indah Wahyuni (Pj.),"1.790,90",1.119.251,21,7/198
+239,Kabupaten Madiun,Caruban,Tontro Pahlawanto (Pj.),"1.037,58",744.350,15,8/198
+240,Kabupaten Magetan,Magetan,Hergunadi (Pj.),"688,84",670.812,18,28/207
+241,Kabupaten Malang,Kepanjen,Sanusi,"3.530,65",2.654.448,33,12/378
+242,Kabupaten Mojokerto,Mojosari,Ikfina Fahmawati,"717,83",1.119.209,18,5/299
+243,Kabupaten Nganjuk,Nganjuk,Sri Handoko Taruna (Pj.),"1.224,25",1.103.902,20,20/264
+244,Kabupaten Ngawi,Ngawi,Ony Anwar Harsono,"1.295,98",870.057,19,4/213
+245,Kabupaten Pacitan,Pacitan,Indrata Nur Bayuaji,"1.389,92",586.110,12,5/166
+246,Kabupaten Pamekasan,Pamekasan,Masrukin (Pj.),"792,24",850.057,13,11/178
+247,Kabupaten Pasuruan,Bangil,Andriyanto (Pj.),"1.474,02",1.605.969,24,24/341
+248,Kabupaten Ponorogo,Ponorogo,Sugiri Sancoko,"1.305,70",949.318,21,26/281
+249,Kabupaten Probolinggo,Kraksaan,Ugas Irwanto (Pj.),"1.696,21",1.152.537,24,5/325
+250,Kabupaten Sampang,Sampang,Rudy Arifiyanto (Pj.),"1.233,08",969.694,14,6/180
+251,Kabupaten Sidoarjo,Sidoarjo,Ahmad Muhdlor Ali,"634,38",2.082.801,18,31/322
+252,Kabupaten Situbondo,Situbondo,Karna Suswandi,"1.669,87",685.967,17,4/132
+253,Kabupaten Sumenep,Sumenep,Achmad Fauzi,"1.998,54",1.124.436,27,4/330
+254,Kabupaten Trenggalek,Trenggalek,Mochamad Nur Arifin,"1.147,22",731.125,14,5/152
+255,Kabupaten Tuban,Tuban,Aditya Halindra Faridzky,"1.834,15",1.198.012,20,17/311
+256,Kabupaten Tulungagung,Tulungagung,Heru Suseno (Pj.),"1.055,65",1.089.775,19,14/257
+257,Kota Batu,-,Aries Agung Paewai (Pj.),"136,74",213.046,3,5/19
+258,Kota Blitar,-,Santoso,"32,57",149.149,3,21/-
+259,Kota Kediri,-,Zanariah (Pj.),"63,40",286.796,3,46/-
+260,Kota Madiun,-,Maidi,"33,29",195.175,3,27/-
+261,Kota Malang,-,Wahyu Hidayat (Pj.),"145,28",843.810,5,57/-
+262,Kota Mojokerto,-,Mohammad Ali Kuncoro (Pj.),"16,47",132.434,3,18/-
+263,Kota Pasuruan,-,Saifullah Yusuf,"35,29",208.006,4,34/-
+264,Kota Probolinggo,-,Nurkholis (Pj.),"56,67",239.649,5,29/-
+265,Kota Surabaya,-,Eri Cahyadi,"350,54",2.874.314,31,154/-
+266,Kabupaten Lebak,Rangkasbitung,Iwan Kurniawan (Pj.),"3.426,56",1.386.793,28,5/340
+267,Kabupaten Pandeglang,Pandeglang,Irna Narulita,"2.746,89",1.272.687,35,13/326
+268,Kabupaten Serang,Ciruas,Ratu Tatu Chasanah,"1.734,28",1.622.630,29,-/326
+269,Kabupaten Tangerang,Tigaraksa,Andi Ony Prihantoro (Pj.),"1.011,86",3.245.619,29,28/246
+270,Kota Cilegon,-,Helldy Agustian,"175,50",434.896,8,43/-
+271,Kota Serang,-,Yedi Rahmat (Pj.),"266,71",692.101,6,67/-
+272,Kota Tangerang,-,Nurdin (Pj.),"153,93",1.895.486,13,104/-
+273,Kota Tangerang Selatan,-,Benyamin Davnie,"147,19",1.354.350,7,54/-
+274,Kabupaten Badung,Mangupura,I Nyoman Giri Prasta,"398,75",517.969,6,16/46
+275,Kabupaten Bangli,Bangli,Sang Nyoman Sedana Arta,"526,76",255.413,4,4/68
+276,Kabupaten Buleleng,Singaraja,I Ketut Lihadnyana (Pj.),"1.322,75",827.642,9,19/129
+277,Kabupaten Gianyar,Gianyar,I Dewa Tagel Wirasa (Pj.),"364,36",501.870,7,6/64
+278,Kabupaten Jembrana,Negara,I Nengah Tamba,"849,13",325.879,5,10/41
+279,Kabupaten Karangasem,Amlapura,I Gede Dana,"839,32",522.729,8,3/75
+280,Kabupaten Klungkung,Semarapura,I Nyoman Jendrika (Pj.),"313,96",217.469,4,6/53
+281,Kabupaten Tabanan,Tabanan,I Komang Gede Sanjaya,"849,31",465.086,10,-/133
+282,Kota Denpasar,-,I Gusti Ngurah Jaya Negara,"125,87",653.136,4,16/27
+283,Kabupaten Bima,Woha,Indah Damayanti Putri,"3.405,63",533.274,18,-/191
+284,Kabupaten Dompu,Dompu,Kader Jaelani,"2.391,54",241.836,8,9/72
+285,Kabupaten Lombok Barat,Gerung,Fauzan Khalid,"923,06",726.228,10,3/119
+286,Kabupaten Lombok Tengah,Praya,Muhammad Juaini Taofik (Pj.),"1.095,03",1.059.324,12,12/127
+287,Kabupaten Lombok Timur,Selong,Sukiman Azmy,"1.230,76",1.369.918,20,15/239
+288,Kabupaten Lombok Utara,Tanjung,Djohan Sjamsu,"776,25",252.942,5,-/43
+289,Kabupaten Sumbawa,Sumbawa,Mahmud Abdullah,"6.643,98",509.753,24,8/157
+290,Kabupaten Sumbawa Barat,Taliwang,W. Musyafirin,"1.849,02",148.606,8,7/57
+291,Kota Bima,-,Mohammad Rum (Pj.),"222,25",155.140,5,38/-
+292,Kota Mataram,-,Mohan Roliskana,"61,30",441.506,6,50/-
+293,Kabupaten Alor,Kalabahi,Amon Djobo,"2.864,60",211.872,17,17/158
+294,Kabupaten Belu,Atambua,Agustinus Taolin,"1.284,97",217.973,12,12/69
+295,Kabupaten Ende,Ende,Djafar H. Achmad,"2.046,50",270.763,21,23/255
+296,Kabupaten Flores Timur,Larantuka,Doris Alexander Rihi (Pj.),"1.813,20",276.896,19,21/229
+297,Kabupaten Kupang,Oelamasi,Korinus Masneno,"5.434,76",366.383,24,17/160
+298,Kabupaten Lembata,Lewoleba,Matheos Tan (Pj.),"1.266,00",135.930,9,7/144
+299,Kabupaten Malaka,Betun,Simon Nahak,"1.160,63",183.898,12,-/127
+300,Kabupaten Manggarai,Ruteng,Herybertus Geradus Laju Nabit,"2.096,44",312.855,12,26/145
+301,Kabupaten Manggarai Barat,Labuan Bajo,Edistasius Endi,"2.397,03",256.317,12,5/164
+302,Kabupaten Manggarai Timur,Borong,Boni Hasudungan Siregar (Pj.),"2.642,93",275.603,9,17/159
+303,Kabupaten Nagekeo,Mbay,Johanes Don Bosco Do,"1.416,96",159.732,7,16/97
+304,Kabupaten Ngada,Bajawa,Andreas Paru,"1.645,88",165.254,12,16/135
+305,Kabupaten Rote Ndao,Baa,Odermax Sombu (Pj.),"1.280,00",143.764,10,7/112
+306,Kabupaten Sabu Raijua,Menia,Nikodemus Nithanel Rihi Heke,"460,54",89.327,6,5/58
+307,Kabupaten Sikka,Maumere,Adrianus Firminus Parera (Pj.),"1.731,90",321.953,21,13/147
+308,Kabupaten Sumba Barat,Kota Waikabubak,Johanes Dade,"737,42",145.097,6,11/63
+309,Kabupaten Sumba Barat Daya,Kota Tambolaka,Markus Dairo Talu,"1.480,46",303.650,11,2/173
+310,Kabupaten Sumba Tengah,Waibakul,Paulus Limu,"1.868,74",85.482,5,-/65
+311,Kabupaten Sumba Timur,Kota Waingapu,Khristofel Praing,"7.000,50",244.820,22,16/140
+312,Kabupaten Timor Tengah Selatan,Kota Soe,Seperius Edison Sipa (Pj.),"3.947,00",455.410,32,12/266
+313,Kabupaten Timor Tengah Utara,Kota Kefamenanu,Juandi David,"2.669,70",259.829,24,33/160
+314,Kota Kupang,-,Fahrensy Priestley Funay (Pj.),"180,27",442.758,6,51/-
+315,Kabupaten Bengkayang,Bengkayang,Sebastianus Darwis,"5.396,30",291.752,17,2/122
+316,Kabupaten Kapuas Hulu,Putussibau,Fransiskus Diaan,"29.842,03",268.840,23,4/278
+317,Kabupaten Kayong Utara,Sukadana,Citra Duani,"4.568,26",128.009,6,-/43
+318,Kabupaten Ketapang,Ketapang,Martin Rantan,"31.588,00",591.917,20,9/253
+319,Kabupaten Kubu Raya,Sungai Raya,Syarif Kamaruzaman (Pj.),"8.492,00",620.126,9,-/117
+320,Kabupaten Landak,Ngabang,Samuel (Pj.),"8.831,00",406.946,13,-/156
+321,Kabupaten Melawi,Nanga Pinoh,Dadi Sunarya Usfa Yusra,"10.640,80",235.025,11,-/169
+322,Kabupaten Mempawah,Mempawah,Erlina,"2.797,88",307.742,9,7/60
+323,Kabupaten Sambas,Sambas,Satono,"6.394,70",629.905,19,-/193
+324,Kabupaten Sanggau,Kapuas,Suherman (Pj.),"12.857,70",492.770,15,6/163
+325,Kabupaten Sekadau,Sekadau Hilir,Rupinus,"6.263,07",214.429,7,-/87
+326,Kabupaten Sintang,Sintang,Jarot Winarno,"21.638,00",421.306,14,16/390
+327,Kota Pontianak,-,Edi Rusdi Kamtono,"118,32",676.096,6,29/-
+328,Kota Singkawang,-,Sumastro (Pj.),"504,00",242.146,5,26/-
+329,Kabupaten Barito Selatan,Buntok,Deddy Winarwan (Pj.),8.830,131.140,6,7/86
+330,Kabupaten Barito Timur,Tamiang Layang,Ampera A. Y mebas (Pj.),3.834,113.229,10,3/100
+331,Kabupaten Barito Utara,Muara Teweh,"Nahdalsyah (Pj.)
+
+(Pj.)|| align=""center"" |8.300
+
+",154.812,9,10/93,
+332,Kabupaten Gunung Mas,Kuala Kurun,Jaya Samaya Monong,10.805,135.373,12,13/114
+333,Kabupaten Kapuas,Kuala Kapuas,Erlin Hardi (Pj.),"14.999,00",410.446,17,17/214
+334,Kabupaten Katingan,Kasongan,Sakariyas(Pj.),17.500,162.222,13,7/154
+335,Kabupaten Kotawaringin Barat,Pangkalan Bun,Nur hidayah (Pj.),"10.759,00",270.388,6,13/81
+336,Kabupaten Kotawaringin Timur,Sampit,Halikinnor,"16.796,00",428.895,17,17/168
+337,Kabupaten Lamandau,Nanga Bulik,Lilis Suriani (Pj.),6.414,97.611,8,3/85
+338,Kabupaten Murung Raya,Puruk Cahu,Perdie M. yoseph (Pj.),23.700,111.527,10,9/116
+339,Kabupaten Pulang Pisau,Pulang Pisau,Nunu Andriani (Pj.),8.997,134.499,8,4/95
+340,Kabupaten Seruyan,Kuala Pembuang,Djainuddin Noor (Pj.),16.404,162.906,10,3/97
+341,Kabupaten Sukamara,Sukamara,Kaspinor (Pj.),3.827,63.464,5,3/29
+342,Kota Palangka Raya,-,Hera Nugrahayu (Pj.),"2.399,50",293.457,5,30/-
+343,Kabupaten Balangan,Paringin,Abdul Hadi,"1.878,30",130.355,8,3/154
+344,Kabupaten Banjar,Martapura,Saidi Mansyur,"4.668,00",565.635,20,13/277
+345,Kabupaten Barito Kuala,Marabahan,Mujiyat (Pj.),"2.996,46",313.021,17,6/195
+346,Kabupaten Hulu Sungai Selatan,Kandangan,Hermansyah (Pj.),"1.804,94",228.006,11,4/144
+347,Kabupaten Hulu Sungai Tengah,Barabai,Aulia Oktafiandi,"1.472,00",258.721,11,8/161
+348,Kabupaten Hulu Sungai Utara,Amuntai,Zakly Aswan (Pj.),"892,70",226.727,10,5/214
+349,Kabupaten Kotabaru,Kotabaru,Sayed Jafar Alaydrus,"9.482,73",325.622,21,4/198
+350,Kabupaten Tabalong,Tanjung,Anang Syakhfiani,"3.766,97",253.305,12,10/121
+351,Kabupaten Tanah Bumbu,Batulicin,Zairullah Azhar,"5.006,96",322.646,10,5/144
+352,Kabupaten Tanah Laut,Pelaihari,Syamsir Rahman (Pj.),"3.631,35",348.966,11,5/130
+353,Kabupaten Tapin,Rantau,M. Syarifuddin (Pj.),"2.700,82",189.475,12,9/126
+354,Kota Banjarbaru,-,Aditya Mufti Ariffin,"371,00",253.442,5,20/-
+355,Kota Banjarmasin,-,Ibnu Sina,"72,00",657.663,5,52/-
+356,Kabupaten Berau,Tanjung Redeb,Sri Juniarsih Mas,"36.962,37",238.214,13,10/100
+357,Kabupaten Kutai Barat,Sendawar,F.X. Yapan,"20.384,60",165.938,16,4/190
+358,Kabupaten Kutai Kartanegara,Tenggarong,Edi Damansyah,"27.263,10",734.485,18,44/193
+359,Kabupaten Kutai Timur,Sangatta,Ardiansyah Sulaiman,"35.747,50",424.334,18,2/139
+360,Kabupaten Mahakam Ulu,Ujoh Bilang,Bonifasius Belawan Geh,"15.315,00",35.010,5,-/50
+361,Kabupaten Paser,Tanah Grogot,Fahmi Fadli,"7.730,88",277.401,10,5/139
+362,Kabupaten Penajam Paser Utara,Penajam,Makmur Marbun (Pj.),"3.333,06",181.349,4,24/30
+363,Kota Balikpapan,-,Rahmad Mas'ud,"533,00",727.655,6,34/-
+364,Kota Bontang,-,Basri Rase,"149,80",185.928,3,15/-
+365,Kota Samarinda,-,Andi Harun,"718,00",834.824,10,59/-
+366,Kabupaten Bulungan,Tanjung Selor,Syarwani,"13.925,72",151.800,10,7/74
+367,Kabupaten Malinau,Malinau,Wempi Wellem Mawa,"42.620,70",82.500,15,-/109
+368,Kabupaten Nunukan,Nunukan,Asmin Laura,"13.841,90",199.090,21,8/232
+369,Kabupaten Tana Tidung,Tideng Pale,Ibrahim Ali,"4.828,58",25.600,5,-/32
+370,Kota Tarakan,-,Bustan (Pj.),"250,80",242.800,4,20/-
+371,Kabupaten Bolaang Mongondow,Lolak,Limi Mokodompit (Pj.),"5.397,69",248.751,15,2/200
+372,Kabupaten Bolaang Mongondow Selatan,Bolaang Uki,Iskandar Kamaru,"1.932,60",69.791,7,-/81
+373,Kabupaten Bolaang Mongondow Timur,Tutuyan,Sam Sachrul Mamonto,"910,18",87.241,7,-/81
+374,Kabupaten Bolaang Mongondow Utara,Boroko,Sirajudin Lasena (Pj.),"1.856,86",83.112,6,1/106
+375,Kabupaten Kepulauan Sangihe,Tahuna,Rinny Tamuntuan (Pj.),"736,98",139.262,15,22/145
+376,Kabupaten Kepulauan Siau Tagulandang Biaro,Ondong Siau,Joi Eltiano Bernadin Oroh (Pj.),"275,96",72.135,10,10/83
+377,Kabupaten Kepulauan Talaud,Melonguane,Elly Engelbert Lasut,"1.251,02",113.521,19,11/142
+378,Kabupaten Minahasa,Tondano,Jemmy Stani Kumendong (Pj.),"1.025,85",348.670,25,43/227
+379,Kabupaten Minahasa Selatan,Amurang,Franky Donny Wongkar,"1.456,46",238.740,17,10/167
+380,Kabupaten Minahasa Tenggara,Ratahan,Ronald Sorongan (Pj.),"730,63",117.079,12,9/135
+381,Kabupaten Minahasa Utara,Airmadidi,Joune Ganda,"1.059,24",224.993,10,6/126
+382,Kota Bitung,-,Maurits Mantiri,"313,51",225.134,8,69/-
+383,Kota Kotamobagu,-,Asripan Nani (Pj.),"184,33",125.492,4,18/15
+384,Kota Manado,-,Andrei Angouw,"162,53",476.910,11,87/-
+385,Kota Tomohon,-,Caroll Senduk,"147,21",100.587,5,44/-
+386,Kabupaten Banggai,Luwuk,Amirudin Tamoreka,"9.672,70",382.276,23,46/291
+387,Kabupaten Banggai Kepulauan,Salakan,Ihsan Basir (Pj.),"2.488,79",120.142,12,3/141
+388,Kabupaten Banggai Laut,Banggai,Sofyan Kaepa,"725,67",70.435,7,3/63
+389,Kabupaten Buol,Buol,Moh. Muchlis Yojodolo (Pj.),"4.043,57",145.254,11,7/108
+390,Kabupaten Donggala,Banawa,Moh. Rifani (Pj.),"5.275,69",304.110,16,9/158
+391,Kabupaten Morowali,Bungku Tengah,Rachmansyah Ismail (Pj.),"5.472,00",176.244,9,7/126
+392,Kabupaten Morowali Utara,Kolonodale,Delis Julkarson Hehi,"10.004,28",128.323,10,3/122
+393,Kabupaten Parigi Moutong,Parigi,Richard Arnaldo Djanggola (Pj.),"6.231,85",499.086,23,5/278
+394,Kabupaten Poso,Poso,Verna Gladies Merry Inkiriwang,"7.112,25",248.345,19,28/141
+395,Kabupaten Sigi,Sigi Biromaru,Mohamad Irwan Lapatta,"5.196,02",259.681,15,-/176
+396,Kabupaten Tojo Una-Una,Ampana Kota,Mohammad Lahay,"5.721,15",165.574,12,12/134
+397,Kabupaten Tolitoli,Baolan,Amran Hi. Yahya,"4.079,77",228.641,10,6/103
+398,Kota Palu,-,Hadianto Rasyid,"395,06",372.113,8,46/-
+399,Kabupaten Bantaeng,Bantaeng,Andi Abubakar (Pj.),"395,83",196.716,8,21/46
+400,Kabupaten Barru,Barru,Suardi Saleh,"1.174,72",186.910,7,15/40
+401,Kabupaten Bone,Watampone,Andi Islamuddin (Pj.),"4.559,00",801.775,27,44/328
+402,Kabupaten Bulukumba,Ujung Bulu,Andi Muchtar Ali Yusuf,"1.154,58",437.610,10,27/109
+403,Kabupaten Enrekang,Enrekang,Baba (Pj.),"1.786,01",225.172,12,17/112
+404,Kabupaten Gowa,Sungguminasa,Adnan Purichta Ichsan,"1.883,33",768.682,18,46/121
+405,Kabupaten Jeneponto,Bontosunggu,Junaedi Bakri (Pj.),"749,79",415.462,11,31/82
+406,Kabupaten Kepulauan Selayar,Benteng,Muhammad Basli Ali,"1.357,03",137.071,11,7/81
+407,Kabupaten Luwu,Belopa,Muhammad Saleh (Pj.),"2.909,08",365.608,21,20/207
+408,Kabupaten Luwu Timur,Malili,Budiman Hakim,"6.944,88",305.521,11,3/125
+409,Kabupaten Luwu Utara,Masamba,Indah Putri Indriani,"7.502,58",327.820,15,7/166
+410,Kabupaten Maros,Turikale,Chaidir Syam,"1.619,12",403.774,14,23/80
+411,Kabupaten Pangkajene dan Kepulauan,Pangkajene,Muhammad Yusran Lalogau,"898,29",352.949,13,38/65
+412,Kabupaten Pinrang,Watang Sawitto,Ahmadi Akil (Pj.),"1.961,77",414.710,12,40/69
+413,Kabupaten Sidenreng Rappang,Pangkajene Sidenreng,Basra (Pj.),"1.102,10",301.972,11,38/68
+414,Kabupaten Sinjai,Sinjai Utara,Teuku Raja Fahsul Falah (Pj.),"819,96",268.496,9,13/67
+415,Kabupaten Soppeng,Lalabata,Andi Kaswadi Razak,"1.500,00",236.049,8,21/49
+416,Kabupaten Takalar,Pattallassang,Setiawan Aswad (Pj.),"566,51",304.856,10,24/76
+417,Kabupaten Tana Toraja,Makale,Theofilus Allorerung,"2.054,30",291.046,19,47/112
+418,Kabupaten Toraja Utara,Rantepao,Yohanis Bassang,"1.151,47",268.198,21,40/111
+419,Kabupaten Wajo,Tempe,Andi Bataralifu (Pj.),"2.506,19",379.396,14,48/142
+420,Kota Makassar,-,Moh. Ramdhan Pomanto,"175,77",1.571.814,15,153/-
+421,Kota Palopo,-,Asrul Sani (Pj.),"247,52",190.867,9,48/-
+422,Kota Parepare,-,Akbar Ali (Pj.),"99,33",154.854,4,22/-
+423,Kabupaten Bombana,Rumbia,Edi Suharmanto (Pj.),"3.316,16",150.706,22,22/121
+424,Kabupaten Buton,Pasarwajo,La Ode Mustari (Pj.),"1.648,04",119.353,7,12/83
+425,Kabupaten Buton Selatan,Batauga,La Ode Budiman (Pj.),"510,00",99.173,7,10/60
+426,Kabupaten Buton Tengah,Labungkari,Andi Muhammad Yusuf (Pj.),"958,00",118.907,7,10/67
+427,Kabupaten Buton Utara,Buranga,M. Ridwan Zakariah,"1.923,03",68.553,6,12/78
+428,Kabupaten Kolaka,Kota Kolaka,Andi Makkawaru (Pj.),"3.283,59",243.832,12,35/100
+429,Kabupaten Kolaka Timur,Tirawuta,Abdul Azis,"3.992,53",125.311,13,16/117
+430,Kabupaten Kolaka Utara,Lasusua,Sukanto Toding (Pj.),"3.392,00",139.319,15,6/127
+431,Kabupaten Konawe,Kota Unaaha,Harmin Ramba (Pj.),"6.087,68",266.299,27,57/297
+432,Kabupaten Konawe Kepulauan,Langara,Amrullah,"867,58",38.849,7,7/89
+433,Kabupaten Konawe Selatan,Andolo,Surunuddin Dangga,"4.237,74",317.826,25,15/336
+434,Kabupaten Konawe Utara,Wanggudu,Ruksamin,"5.101,76",62.403,13,11/159
+435,Kabupaten Muna,Kota Raha,[Bachrun]] (Plt.),"2.057,69",223.991,22,26/125
+436,Kabupaten Muna Barat,Sawerigadi,La Ode Butolo (Pj.),"1.022,89",84.182,11,5/81
+437,Kabupaten Wakatobi,Wangi-Wangi,Haliana,"473,62",111.402,8,26/75
+438,Kota Baubau,-,Rasman Manafi (Pj.),"295,07",167.519,8,43/-
+439,Kota Kendari,-,Muhammad Yusuf (Pj.),"271,80",347.381,10,64/-
+440,Kabupaten Boalemo,Tilamuta,Sherman Moridu (Pj.),"2.567,36",147.038,7,-/82
+441,Kabupaten Bone Bolango,Suwawa,Merlan Uloli,"1.984,31",158.550,18,5/160
+442,Kabupaten Gorontalo,Limboto,Nelson Pomalingo,"2.124,60",415.198,19,14/191
+443,Kabupaten Gorontalo Utara,Kwandang,Sila Botutihe (Pj.),"1.777,02",126.581,11,-/123
+444,Kabupaten Pohuwato,Marisa,Saipul A. Mbuinga,"4.244,31",157.660,13,3/101
+445,Kota Gorontalo,-,Marten Taha,"79,02",203.205,9,50/-
+446,Kabupaten Majene,Banggae,Andi Achmad Syukri Tammalele,"900,92",181.360,8,20/62
+447,Kabupaten Mamasa,Mamasa,Muhammad Zain (Pj.),"3.015,95",170.354,17,13/168
+448,Kabupaten Mamuju,Mamuju,Sitti Sutinah Suhardi,"4.942,25",292.395,11,15/88
+449,Kabupaten Mamuju Tengah,Tobadak,Aras Tammauni,"2.758,34",142.455,5,-/54
+450,Kabupaten Pasangkayu,Pasangkayu,Yaumil Ambo Djiwa,"2.903,18",199.142,12,4/59
+451,Kabupaten Polewali Mandar,Polewali,Ilham Borahima (Pj.),"2.074,12",495.371,16,23/144
+452,Kabupaten Buru,Namlea,Djalaludin Salampessy (Pj.),"5.577,88",138.308,10,-/82
+453,Kabupaten Buru Selatan,Namrole,Safitri Malik Soulisa,"3.781,00",77.013,6,-/79
+454,Kabupaten Kepulauan Aru,Dobo,Johan Gonga,"6.426,77",102.920,10,2/117
+455,Kabupaten Kepulauan Tanimbar,Saumlaki,Piterson Rangkoratat (Pj.),"10.102,92",127.365,10,2/80
+456,Kabupaten Maluku Barat Daya,Tiakur,Benyamin Thomas Noach,"8.633,15",82.560,17,1/117
+457,Kabupaten Maluku Tengah,Masohi,Rakib Sahubawa (Pj.),"7.953,81",423.094,18,6/186
+458,Kabupaten Maluku Tenggara,Langgur,Jasmono (Pj.),"1.031,81",128.002,11,1/190
+459,Kabupaten Seram Bagian Barat,Piru,Andi Chandra As’aduddin (Pj.),"5.033,38",212.393,11,-/92
+460,Kabupaten Seram Bagian Timur,Bula,Abdul Mukti Keliobas,"5.779,12",143.438,15,-/198
+461,Kota Ambon,-,Bodewin Wattimena (Pj.),"298,61",348.225,5,20/30
+462,Kota Tual,-,Akhmad Yani Renuat (Pj.),"254,39",88.999,5,3/27
+463,Kabupaten Halmahera Barat,Jailolo,James Uang,"1.704,00",137.543,8,-/169
+464,Kabupaten Halmahera Selatan,Labuha,Hasan Ali Bassam Kasuba,"9.073,36",255.384,30,-/249
+465,Kabupaten Halmahera Tengah,Weda,Ikram M. Sangadji (Pj.),"2.654,00",96.977,10,-/61
+466,Kabupaten Halmahera Timur,Kota Maba,Ubaid Yakub,"6.538,10",97.895,10,-/102
+467,Kabupaten Halmahera Utara,Tobelo,Frans Manery,"3.891,62",203.213,17,-/196
+468,Kabupaten Kepulauan Sula,Sanana,Fifian Adeningsi Mus,"3.295,40",105.095,12,-/78
+469,Kabupaten Pulau Morotai,Daruba,Muhammad Umar Ali (Pj.),"2.337,15",74.436,5,-/88
+470,Kabupaten Pulau Taliabu,Bobong,Aliong Mus,"1.469,00",59.330,8,-/71
+471,Kota Ternate,-,M. Tauhid Soleman,"111,00",206.745,7,77/-
+472,Kota Tidore Kepulauan,-,Ali Ibrahim,"1.550,37",115.406,8,40/49
+473,Kabupaten Biak Numfor,Biak,Herry Ario Naap,"2.602,00",134.650,19,14/254
+474,Kabupaten Jayapura,Sentani,Triwarno Purnomo (Pj.),"11.157,15",166.171,19,5/139
+475,Kabupaten Keerom,"Arso (de facto)
+Waris (de jure)",Piter Gusbager,"8.390,00",61.623,11,-/91
+476,Kabupaten Kepulauan Yapen,Serui Kota,Welliam Robert Manderi (Pj.),"2.050,00",112.676,16,5/160
+477,Kabupaten Mamberamo Raya,Burmeso,John Tabo,"23.813,91",36.483,8,-/60
+478,Kabupaten Sarmi,Sarmi,Markus Oktovianus Mansnembra (Pj.),"17.742,00",41.515,10,2/92
+479,Kabupaten Supiori,Sorendiweri,Yan Imbab,"678,32",22.547,5,-/38
+480,Kabupaten Waropen,Oudate,Yeremias Bisay,"10.977,09",33.943,11,-/100
+481,Kota Jayapura,-,Frans Pekey (Pj.),"935,92",398.478,5,25/14
+482,Kabupaten Fakfak,Fakfak,Untung Tamsil,"14.320,00",85.197,17,7/142
+483,Kabupaten Kaimana,Kaimana,Freddy Thie,"16.241,84",62.256,7,2/84
+484,Kabupaten Manokwari,Manokwari,Hermus Indou,"3.186,28",192.663,9,9/164
+485,Kabupaten Manokwari Selatan,Ransiki,Markus Waran,"2.812,44",35.949,6,-/57
+486,Kabupaten Pegunungan Arfak,Anggi,Yosias Saroy,"2.773,74",38.207,10,-/166
+487,Kabupaten Teluk Bintuni,Bintuni,Petrus Kasihiw,"20.840,83",87.033,24,2/115
+488,Kabupaten Teluk Wondama,Rasiei,Hendrik Mambor,"3.959,53",41.644,13,1/75
+489,Kabupaten Asmat,Agats,Elisa Kambu,"31.983,69",110.105,19,-/221
+490,Kabupaten Boven Digoel,Tanah Merah,Hengky Yaluwo,"27.108,00",64.285,20,-/112
+491,Kabupaten Mappi,Kepi,Michael Rooney Gomar (Pj.),"24.118,00",108.295,15,2/162
+492,Kabupaten Merauke,Merauke,Romanus Mbaraka,"44.071,00",230.932,20,11/179
+493,Kabupaten Deiyai,Tigi,Elimelek Edowai (Pj.),"537,39",99.091,5,-/67
+494,Kabupaten Dogiyai,Kamu,Petrus Agapa (Pj.),"4.237,40",116.206,10,-/79
+495,Kabupaten Intan Jaya,Sugapa,Apolos Bagau (Pj.),"3.922,02",135.043,8,-/97
+496,Kabupaten Mimika,Timika,Eltinus Omaleng,"21.633,00",311.969,18,2/109
+497,Kabupaten Nabire,Nabire,Mesak Magai,"11.112,61",169.136,15,9/72
+498,Kabupaten Paniai,Enarotali,Denci Meri Nawipa (Pj.),"6.525,25",220.410,23,5/216
+499,Kabupaten Puncak,Ilaga,Darwin Tobing (Pj.),"8.055,00",114.741,25,-/206
+500,Kabupaten Puncak Jaya,Mulia,Tumiran (Pj.),"5.996,94",224.527,26,3/302
+501,Kabupaten Jayawijaya,Wamena,Sumule Tumbo (Pj.),"13.925,31",277.923,40,4/328
+502,Kabupaten Lanny Jaya,Tiom,Petrus Wakerkwa (Pj.),"6.077,4",201.461,39,1/354
+503,Kabupaten Mamberamo Tengah,Kobakma,Manogar Sirait (Pj.),"3.743,64",51.719,5,-/59
+504,Kabupaten Nduga,Kenyam,Edison Gwijangge (Pj.),"12.941,00",109.630,32,-/248
+505,Kabupaten Pegunungan Bintang,Oksibil,Spei Yan Birdana,"15.683,00",78.466,34,-/277
+506,Kabupaten Tolikara,Karubaga,Marthen Kogoya (Pj.),"14.564,00",244.345,46,4/541
+507,Kabupaten Yalimo,Elelim,Nahor Nekwek,"4.330,29",103.387,5,-/300
+508,Kabupaten Yahukimo,"Sumohai (de jure)
+Dekai (de facto)",Didimus Yahuli,"17.152,00",350.880,51,1/510
+509,Kabupaten Maybrat,Kumurkek,Bernhard Rondonuwu (Pj.),"5.461,69",42.991,24,1/259
+510,Kabupaten Raja Ampat,Waisai,Abdul Faris Umlati,"8.034,44",64.141,24,4/117
+511,Kabupaten Sorong,Aimas,Cliff Agus Yapsenang (Plh.),"6.544,23",118.679,30,26/226
+512,Kabupaten Sorong Selatan,Teminabuan,Samsudin Anggiluli,"6.594,31",52.469,15,2/121
+513,Kabupaten Tambrauw,Fef,Engelbertus Gabriel Kocu (Pj.),"11.529,18",28.379,29,-/216
+514,Kota Sorong,-,Septinus Lobat (Pj.),"656,64",284.410,10,52/-
