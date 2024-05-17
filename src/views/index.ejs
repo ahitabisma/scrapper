@@ -1,0 +1,86 @@
+<!-- Kabupaten Kota Indonesia -->
+<p>Kabupaten Kota Indonesia</p>
+<div class="btn-group">
+  <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+  <ul class="dropdown-menu">
+    <li>
+      <form method="post" action="/kabupaten-kota-indonesia">
+        <input type="hidden" name="typeFile" value="xlsx" />
+        <button type="submit" class="dropdown-item">.xlsx</button>
+      </form>
+    </li>
+    <li>
+      <form method="post" action="/kabupaten-kota-indonesia">
+        <input type="hidden" name="typeFile" value="csv" />
+        <button type="submit" class="dropdown-item">.csv</button>
+      </form>
+    </li>
+  </ul>
+</div>
+
+<!-- Provinsi -->
+<p>Provinsi Indonesia</p>
+<div class="btn-group">
+  <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+  <ul class="dropdown-menu">
+    <li>
+      <form method="post" action="/provinsi">
+        <input type="hidden" name="typeFile" value="xlsx" />
+        <button type="submit" class="dropdown-item">.xlsx</button>
+      </form>
+    </li>
+    <li>
+      <form method="post" action="/provinsi">
+        <input type="hidden" name="typeFile" value="csv" />
+        <button type="submit" class="dropdown-item">.csv</button>
+      </form>
+    </li>
+  </ul>
+</div>
+
+<!-- Kabupaten Kota By Provinsi -->
+<p>Kabupaten Kota By Provinsi</p>
+<form method="post" action="/kabupaten-kota">
+  <!-- Select2 -->
+  <select class="provinsi" name="provinsi">
+    <% if(provinsi.length === 0) {%>
+    <option selected disabled>Data tidak ada</option>
+    <% } else {provinsi.forEach(prov => { %>
+    <option value="<%= prov[0] %>"><%= prov[0].replace("_", " ").toUpperCase() %></option>
+    <p><%= prov[0] %></p>
+    <%});}%>
+  </select>
+
+  <!-- Input Hidden -->
+  <input type="hidden" name="typeFile" value="xlsx" id="inputType" />
+
+  <!-- Download Button -->
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+    <ul class="dropdown-menu">
+      <li>
+        <button type="submit" class="dropdown-item" id="xlsx">.xlsx</button>
+      </li>
+      <li>
+        <!-- <input type="hidden" name="typeFile" value="csv" /> -->
+        <button type="submit" class="dropdown-item" id="csv">.csv</button>
+      </li>
+    </ul>
+  </div>
+</form>
+
+<script>
+  // Select2
+  $(document).ready(function () {
+    $(".provinsi").select2();
+  });
+
+  let input = $("#inputType");
+  $("#xlsx").click(function () {
+    input.val("xlsx");
+  });
+
+  $("#csv").click(function () {
+    input.val("csv");
+  });
+</script>
