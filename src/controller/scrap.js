@@ -2,7 +2,6 @@ const puppeteer = require("puppeteer");
 const ExcelJS = require("exceljs");
 const fs = require("fs");
 const path = require("path");
-const { error } = require("console");
 
 // Kabupaten Kota Indonesia
 const getKabupatenKota = async (req, res) => {
@@ -188,8 +187,7 @@ const getKabupatenKotaByProvinsi = async (req, res) => {
         }
       });
     } catch (error) {
-      // throw error
-      res.status(500).json({ error });
+      throw error
     }
   } else {
     res.sendFile(fileDir, function (err) {
@@ -269,7 +267,7 @@ const getProvinsi = async (req, res) => {
         }
       });
     } catch (error) {
-      res.status(500).json({ error });
+      throw error;
     }
   } else {
     res.sendFile(fileDir, function (err) {
