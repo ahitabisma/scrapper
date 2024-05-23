@@ -1,0 +1,39 @@
+no,provinsi,kabupaten,kota,jumlah
+1,Aceh,18,5,23
+2,Sumatera Utara,25,8,33
+3,Sumatera Barat,12,7,19
+4,Riau,10,2,12
+5,Jambi,9,2,11
+6,Sumatera Selatan,13,4,17
+7,Bengkulu,9,1,10
+8,Lampung,13,2,15
+9,Kepulauan Riau,5,2,7
+10,Kepulauan Bangka Belitung,6,1,7
+11,DKI Jakarta,1,5,6
+12,Jawa Barat,18,9,27
+13,Jawa Tengah,29,6,35
+14,DI Yogyakarta,4,1,5
+15,Jawa Timur,29,9,38
+16,Banten,4,4,8
+17,Bali,8,1,9
+18,Nusa Tenggara Barat,8,2,10
+19,Nusa Tenggara Timur,21,1,22
+20,Kalimantan Barat,12,2,14
+21,Kalimantan Tengah,13,1,14
+22,Kalimantan Selatan,11,2,13
+23,Kalimantan Timur,7,3,10
+24,Kalimantan Utara,4,1,5
+25,Sulawesi Utara,11,4,15
+26,Sulawesi Tengah,12,1,13
+27,Sulawesi Selatan,21,3,24
+28,Sulawesi Tenggara,15,2,17
+29,Gorontalo,5,1,6
+30,Sulawesi Barat,6,0,6
+31,Maluku,9,2,11
+32,Maluku Utara,8,2,10
+33,Papua,8,1,9
+34,Papua Barat,7,0,7
+35,Papua Selatan,4,0,4
+36,Papua Tengah,8,0,8
+37,Papua Pegunungan,8,0,8
+38,Papua Barat Daya,5,1,6

@@ -16,7 +16,7 @@
     "express": "^4.19.2",
     "express-ejs-layouts": "^2.5.1",
     "nodemon": "^3.1.0",
-    "puppeteer": "^22.8.1",
+    "puppeteer": "^22.9.0",
     "serve-favicon": "^2.5.0"
   }
 }

@@ -1,73 +1,133 @@
-<!-- Kabupaten Kota Indonesia -->
-<p>Kabupaten Kota Indonesia</p>
-<div class="btn-group">
-  <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
-  <ul class="dropdown-menu">
-    <li>
-      <form method="post" action="/kabupaten-kota-indonesia">
-        <input type="hidden" name="typeFile" value="xlsx" />
-        <button type="submit" class="dropdown-item">.xlsx</button>
-      </form>
-    </li>
-    <li>
-      <form method="post" action="/kabupaten-kota-indonesia">
-        <input type="hidden" name="typeFile" value="csv" />
-        <button type="submit" class="dropdown-item">.csv</button>
-      </form>
-    </li>
-  </ul>
-</div>
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+  <div class="container d-flex align-items-center justify-content-between">
+    <h1 class="logo"><a href="/">Scrapper</a></h1>
 
-<!-- Provinsi -->
-<p>Provinsi Indonesia</p>
-<div class="btn-group">
-  <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
-  <ul class="dropdown-menu">
-    <li>
-      <form method="post" action="/provinsi">
-        <input type="hidden" name="typeFile" value="xlsx" />
-        <button type="submit" class="dropdown-item">.xlsx</button>
-      </form>
-    </li>
-    <li>
-      <form method="post" action="/provinsi">
-        <input type="hidden" name="typeFile" value="csv" />
-        <button type="submit" class="dropdown-item">.csv</button>
-      </form>
-    </li>
-  </ul>
-</div>
-
-<!-- Kabupaten Kota By Provinsi -->
-<p>Kabupaten Kota By Provinsi</p>
-<form method="post" action="/kabupaten-kota">
-  <!-- Select2 -->
-  <select class="provinsi" name="provinsi">
-    <% if(provinsi.length === 0) {%>
-    <option selected disabled>Data tidak ada</option>
-    <% } else {provinsi.forEach(prov => { %>
-    <option value="<%= prov[0] %>"><%= prov[0].replace("_", " ").toUpperCase() %></option>
-    <p><%= prov[0] %></p>
-    <%});}%>
-  </select>
-
-  <!-- Input Hidden -->
-  <input type="hidden" name="typeFile" value="xlsx" id="inputType" />
-
-  <!-- Download Button -->
-  <div class="btn-group">
-    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
-    <ul class="dropdown-menu">
-      <li>
-        <button type="submit" class="dropdown-item" id="xlsx">.xlsx</button>
-      </li>
-      <li>
-        <!-- <input type="hidden" name="typeFile" value="csv" /> -->
-        <button type="submit" class="dropdown-item" id="csv">.csv</button>
-      </li>
-    </ul>
+    <nav id="navbar" class="navbar">
+      <ul>
+        <!-- <li><a class="nav-link scrollto active" href="#hero">Home</a></li> -->
+        <li>
+          <a class="github" href="https://github.com/ahitabisma/scrapper"
+            ><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 30 30">
+              <path
+                d="M15,3C8.373,3,3,8.373,3,15c0,5.623,3.872,10.328,9.092,11.63C12.036,26.468,12,26.28,12,26.047v-2.051 c-0.487,0-1.303,0-1.508,0c-0.821,0-1.551-0.353-1.905-1.009c-0.393-0.729-0.461-1.844-1.435-2.526 c-0.289-0.227-0.069-0.486,0.264-0.451c0.615,0.174,1.125,0.596,1.605,1.222c0.478,0.627,0.703,0.769,1.596,0.769 c0.433,0,1.081-0.025,1.691-0.121c0.328-0.833,0.895-1.6,1.588-1.962c-3.996-0.411-5.903-2.399-5.903-5.098 c0-1.162,0.495-2.286,1.336-3.233C9.053,10.647,8.706,8.73,9.435,8c1.798,0,2.885,1.166,3.146,1.481C13.477,9.174,14.461,9,15.495,9 c1.036,0,2.024,0.174,2.922,0.483C18.675,9.17,19.763,8,21.565,8c0.732,0.731,0.381,2.656,0.102,3.594 c0.836,0.945,1.328,2.066,1.328,3.226c0,2.697-1.904,4.684-5.894,5.097C18.199,20.49,19,22.1,19,23.313v2.734 c0,0.104-0.023,0.179-0.035,0.268C23.641,24.676,27,20.236,27,15C27,8.373,21.627,3,15,3z"></path></svg
+          ></a>
+        </li>
+      </ul>
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav>
+    <!-- .navbar -->
   </div>
-</form>
+</header>
+<!-- End Header -->
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+  <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+    <div class="row justify-content-center">
+      <div class="col-xl-7 col-lg-9 text-center" style="margin-top: -50px">
+        <h1 style="font-size: 40px">Data Kabupaten Kota dan Provinsi di Indonesia</h1>
+        <h2>Scrapping data diambil dari <a href="https://id.m.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia" target="_blank">Wikipedia</a></h2>
+      </div>
+    </div>
+
+    <div class="services section-bg">
+      <div class="row" style="margin-top: 20px">
+        <!-- Kabupaten Kota Indonesia -->
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="icon-box iconbox-blue">
+            <div class="search">
+              <div class="btn-group">
+                <button type="button" class="btn btn-download dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+                <ul class="dropdown-menu">
+                  <li>
+                    <form method="post" action="/kabupaten-kota-indonesia">
+                      <input type="hidden" name="typeFile" value="xlsx" />
+                      <button type="submit" class="dropdown-item">.xlsx</button>
+                    </form>
+                  </li>
+                  <li>
+                    <form method="post" action="/kabupaten-kota-indonesia">
+                      <input type="hidden" name="typeFile" value="csv" />
+                      <button type="submit" class="dropdown-item">.csv</button>
+                    </form>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <h4><a>Kabupaten Kota Indonesia</a></h4>
+            <p>Data ini mencakup nama kabupaten dan kota, beserta informasi penting lainnya seperti luas wilayah, jumlah penduduk, dan jumlah kecamatan/desa</p>
+          </div>
+        </div>
+
+        <!-- Kabupaten Kota by Provinsi -->
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+          <div class="icon-box iconbox-orange">
+            <div class="search">
+              <form method="post" action="/kabupaten-kota">
+                <!-- Select2 -->
+                <select class="provinsi" name="provinsi">
+                  <% if(provinsi.length === 0) {%>
+                  <option selected disabled>Data tidak ada</option>
+                  <% } else {provinsi.forEach(prov => { %>
+                  <option value="<%= prov[0] %>"><%= prov[0].replace("_", " ").toUpperCase() %></option>
+                  <p><%= prov[0] %></p>
+                  <%});}%>
+                </select>
+
+                <!-- Input Hidden -->
+                <input type="hidden" name="typeFile" value="xlsx" id="inputType" />
+
+                <!-- Download Button -->
+                <div class="btn-group" style="margin: 10px 0 0 0">
+                  <button type="button" class="btn btn-download dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <button type="submit" class="dropdown-item" id="xlsx">.xlsx</button>
+                    </li>
+                    <li>
+                      <button type="submit" class="dropdown-item" id="csv">.csv</button>
+                    </li>
+                  </ul>
+                </div>
+              </form>
+            </div>
+            <h4><a>Kabupaten Kota By Provinsi</a></h4>
+            <p>Data ini berisi nama kabupaten kota berdasarkan provinsi dan mencakup data seperti luas wilayah, jumlah penduduk, dan jumlah kecamatan/desa</p>
+          </div>
+        </div>
+
+        <!-- Provinsi -->
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+          <div class="icon-box iconbox-pink">
+            <div class="search">
+              <div class="btn-group">
+                <button type="button" class="btn btn-download dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Download</button>
+                <ul class="dropdown-menu">
+                  <li>
+                    <form method="post" action="/provinsi">
+                      <input type="hidden" name="typeFile" value="xlsx" />
+                      <button type="submit" class="dropdown-item">.xlsx</button>
+                    </form>
+                  </li>
+                  <li>
+                    <form method="post" action="/provinsi">
+                      <input type="hidden" name="typeFile" value="csv" />
+                      <button type="submit" class="dropdown-item">.csv</button>
+                    </form>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <h4><a href="">Provinsi</a></h4>
+            <p>Data ini mencakup informasi dasar mengenai setiap provinsi di Indonesia, seperti nama provinsi, jumlah kabupaten, dan jumlah kota.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Hero -->
 
 <script>
   // Select2

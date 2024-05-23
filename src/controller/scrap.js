@@ -116,7 +116,7 @@ const getKabupatenKotaByProvinsi = async (req, res) => {
       await page.goto("https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia");
 
       // Mencari Provinsi dan menyimpan ke dalam json file
-      const jsonDir = path.join(__dirname, "provinsi.json");
+      const jsonDir = path.join(__dirname, "../../", "public", "provinsi.json");
 
       let provinsi = [];
 
@@ -187,7 +187,7 @@ const getKabupatenKotaByProvinsi = async (req, res) => {
         }
       });
     } catch (error) {
-      throw error
+      throw error;
     }
   } else {
     res.sendFile(fileDir, function (err) {
@@ -325,7 +325,7 @@ const provinsiJson = async (req, res) => {
 
     res.render("index", {
       layout: "layout/main",
-      title: "Scrapper App",
+      title: "Scrapper",
       provinsi,
     });
   } catch (error) {
