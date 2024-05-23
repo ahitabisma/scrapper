@@ -1,14 +1,14 @@
 const express = require("express");
 const expressLayouts = require("express-ejs-layouts");
 const path = require("path");
-const { getKabupatenKota, getProvinsi, getKabupatenKotaByProvinsi, provinsiJson } = require("./controller/scrap");
+const { getKabupatenKota, getProvinsi, getKabupatenKotaByProvinsi, provinsiJson } = require("./src/controller/scrap");
 const favicon = require("serve-favicon");
 const app = express();
 const port = 3000;
 
-app.use(favicon(path.join(__dirname, "../", "public", "img", "logo.png")));
+app.use(favicon(path.join(__dirname, "public", "img", "logo.png")));
 app.set("view engine", "ejs");
-app.set("views", path.join(__dirname, "views"));
+app.set("views", path.join(__dirname, "src","views"));
 app.use(expressLayouts);
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded({ extended: true }));
@@ -27,4 +27,5 @@ app.post("/provinsi", getProvinsi);
 
 app.listen(port, () => {
   console.log(`Scrap app listening on port ${port}`);
+  console.log(path.join(__dirname, "public"));
 });
